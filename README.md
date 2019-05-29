@@ -4,23 +4,23 @@ Glozzom is a responsive multi-page theme with a carousel and some 3rd party scri
 
 ## Components
 1. Home section
-- navbar at the top with logo
-- showcase area that is a **carousel** with background images
-- background image with **parallax** effect (you can see different parts of the image as you scroll)
-- video
-- photo Gallery 
-- newsletter form
-- footer with copyright 
+    - navbar at the top with logo
+    - showcase area that is a **carousel** with background images
+    - background image with **parallax** effect (you can see different parts of the image as you scroll)
+    - video
+    - photo Gallery 
+    - newsletter form
+    - footer with copyright 
 2. About section
-- boxes with icons
-- slider
+    - boxes with icons
+    - slider
 3. Services section
-- cards with headers, list groups and footers
-- accordion
+    - cards with headers, list groups and footers
+    - accordion
 4. Blog
-- card columns with images and texts
+    - card columns with images and texts
 5. Contact section
-- form
+    - form
 
 
 There is also implemented:
