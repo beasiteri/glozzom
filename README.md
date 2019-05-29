@@ -17,14 +17,14 @@ Glozzom is a responsive multi-page theme with a carousel and some 3rd party scri
 3. Services section
     - cards with headers, list groups and footers
     - accordion
-4. Blog
+4. Blog section
     - card columns with images and texts
 5. Contact section
     - form
 
 
 There is also implemented:
-- **Ekko lightbox** to show the images in a light box from the Photo Gallery
+**Ekko lightbox** to show the images in a light box from the Photo Gallery
 
 ## Screenshot of the page
 ![](img/screencapture-glozzom-project.png)
